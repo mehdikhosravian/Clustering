@@ -1,2 +1,2 @@
 # Clustering
-A simple implementation for some clustering algorithms
+A simple implementation for some clustering algorithms.
